@@ -33,8 +33,8 @@ export default function Edit() {
 	return (
 		<p { ...useBlockProps() }>
 			{ __(
-				'Multiple Blocks – hello from the editor!',
-				'multiple-blocks'
+				'One block – hello from the editor!',
+				'one-block'
 			) }
 		</p>
 	);

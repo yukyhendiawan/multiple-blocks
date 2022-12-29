@@ -1,16 +1,16 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 2,
-	"name": "create-block/multiple-blocks",
+	"name": "create-block/one-block",
 	"version": "0.1.0",
-	"title": "Multiple Blocks",
+	"title": "One block",
 	"category": "widgets",
 	"icon": "smiley",
 	"description": "Example block scaffolded with Create Block tool.",
 	"supports": {
 		"html": false
 	},
-	"textdomain": "multiple-blocks",
+	"textdomain": "one-block",
 	"editorScript": "file:./index.js",
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css"
